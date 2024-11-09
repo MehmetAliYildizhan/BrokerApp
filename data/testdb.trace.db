@@ -1,0 +1,462 @@
+2024-11-08 01:37:21.661097+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 01:43:31.012747+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 01:46:40.174262+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 01:48:07.446337+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 01:49:38.336960+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 01:52:31.451059+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 01:56:39.161209+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 01:58:05.071303+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 02:01:04.961221+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 02:02:13.589038+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 02:03:13.161386+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 02:08:25.682624+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 02:41:56.254364+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 02:47:07.365598+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 02:50:20.335823+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 09:35:58.987397+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 09:36:52.427400+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 09:37:33.154360+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 09:39:53.207623+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 09:42:04.471969+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 10:11:28.793663+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 10:38:05.447487+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 21:33:59.799695+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 21:39:37.262655+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 21:44:45.944125+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 22:02:04.568256+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 22:28:16.215721+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 22:32:34.864486+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 22:56:45.258038+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 23:05:49.678885+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 23:08:09.763188+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 23:13:31.505487+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 23:15:29.173867+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM EMPLOYEE\000d\000a\000d\000aUPDATE [*]EMPLOYEE SET PASSWORD = 'MTIzNDU2'"; SQL statement:
+SELECT * FROM EMPLOYEE
+
+UPDATE EMPLOYEE SET PASSWORD = 'MTIzNDU2' [42000-224]
+2024-11-08 23:16:03.455926+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM EMPLOYEE\000d\000a\000d\000aUPDATE [*]EMPLOYEE SET PASSWORD  'MTIzNDU2'"; SQL statement:
+SELECT * FROM EMPLOYEE
+
+UPDATE EMPLOYEE SET PASSWORD  'MTIzNDU2' [42000-224]
+2024-11-08 23:16:04.667789+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM EMPLOYEE\000d\000a\000d\000aUPDATE [*]EMPLOYEE SET PASSWORD  'MTIzNDU2'"; SQL statement:
+SELECT * FROM EMPLOYEE
+
+UPDATE EMPLOYEE SET PASSWORD  'MTIzNDU2' [42000-224]
+2024-11-08 23:19:54.159512+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 23:23:28.127156+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 23:24:31.790669+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-08 23:39:00.461736+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-09 00:33:47.684673+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-09 00:37:45.274006+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-09 00:40:30.429413+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-09 00:44:49.903444+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint not null, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-09 00:47:28.575089+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select coalesce(max(o1_0.id),-1) from [*]order o1_0"; expected "identifier"; SQL statement:
+select coalesce(max(o1_0.id),-1) from order o1_0 [42001-224]
+2024-11-09 00:49:55.460930+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select coalesce(max(o1_0.id),-1) from [*]order o1_0"; expected "identifier"; SQL statement:
+select coalesce(max(o1_0.id),-1) from order o1_0 [42001-224]
+2024-11-09 00:50:42.171036+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select coalesce(max(o1_0.id),-1) from [*]order o1_0"; expected "identifier"; SQL statement:
+select coalesce(max(o1_0.id),-1) from order o1_0 [42001-224]
+2024-11-09 00:55:26.327701+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-09 00:55:48.825421+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select coalesce(max(o1_0.id),-1) from [*]order o1_0"; expected "identifier"; SQL statement:
+select coalesce(max(o1_0.id),-1) from order o1_0 [42001-224]
+2024-11-09 01:01:51.986698+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]order (id bigint generated by default as identity, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table order (id bigint generated by default as identity, asset_id bigint, create_date timestamp(6), customer_id bigint, order_side varchar(255), price numeric(38,2), size numeric(38,2), status varchar(255), primary key (id)) [42001-224]
+2024-11-09 01:02:04.231481+02:00 database: wrong user or password; user: "SA"
+org.h2.message.DbException: Wrong user name or password [28000-224]
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.engine.Engine.openSession(Engine.java:154)
+	at org.h2.engine.Engine.openSession(Engine.java:222)
+	at org.h2.engine.Engine.createSession(Engine.java:201)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:343)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:125)
+	at org.h2.util.JdbcUtils.getConnection(JdbcUtils.java:288)
+	at org.h2.server.web.WebServer.getConnection(WebServer.java:811)
+	at org.h2.server.web.WebApp.login(WebApp.java:1039)
+	at org.h2.server.web.WebApp.process(WebApp.java:227)
+	at org.h2.server.web.WebApp.processRequest(WebApp.java:177)
+	at org.h2.server.web.JakartaWebServlet.doGet(JakartaWebServlet.java:129)
+	at org.h2.server.web.JakartaWebServlet.doPost(JakartaWebServlet.java:166)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:522)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 50 more
+2024-11-09 01:02:46.410938+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE [*]order"; expected "identifier"; SQL statement:
+DROP TABLE order [42001-224]
+2024-11-09 01:02:55.574823+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE [*]ORDER"; expected "identifier"; SQL statement:
+DROP TABLE ORDER [42001-224]
+2024-11-09 01:02:59.300664+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE [*]order"; expected "identifier"; SQL statement:
+DROP TABLE order [42001-224]
+2024-11-09 01:04:57.882723+02:00 database: wrong user or password; user: "SA"
+org.h2.message.DbException: Wrong user name or password [28000-224]
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.engine.Engine.openSession(Engine.java:154)
+	at org.h2.engine.Engine.openSession(Engine.java:222)
+	at org.h2.engine.Engine.createSession(Engine.java:201)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:343)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:125)
+	at org.h2.util.JdbcUtils.getConnection(JdbcUtils.java:288)
+	at org.h2.server.web.WebServer.getConnection(WebServer.java:811)
+	at org.h2.server.web.WebApp.login(WebApp.java:1039)
+	at org.h2.server.web.WebApp.process(WebApp.java:227)
+	at org.h2.server.web.WebApp.processRequest(WebApp.java:177)
+	at org.h2.server.web.JakartaWebServlet.doGet(JakartaWebServlet.java:129)
+	at org.h2.server.web.JakartaWebServlet.doPost(JakartaWebServlet.java:166)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:522)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 50 more
+2024-11-09 01:35:41.372761+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STOCKS" not found; SQL statement:
+SELECT * FROM STOCKS [42102-224]
+2024-11-09 02:03:54.901808+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]order"; expected "identifier"; SQL statement:
+SELECT * FROM order [42001-224]
+2024-11-09 02:24:01.400294+02:00 database: wrong user or password; user: "SA"
+org.h2.message.DbException: Wrong user name or password [28000-224]
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.engine.Engine.openSession(Engine.java:154)
+	at org.h2.engine.Engine.openSession(Engine.java:222)
+	at org.h2.engine.Engine.createSession(Engine.java:201)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:343)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:125)
+	at org.h2.util.JdbcUtils.getConnection(JdbcUtils.java:288)
+	at org.h2.server.web.WebServer.getConnection(WebServer.java:811)
+	at org.h2.server.web.WebApp.login(WebApp.java:1039)
+	at org.h2.server.web.WebApp.process(WebApp.java:227)
+	at org.h2.server.web.WebApp.processRequest(WebApp.java:177)
+	at org.h2.server.web.JakartaWebServlet.doGet(JakartaWebServlet.java:129)
+	at org.h2.server.web.JakartaWebServlet.doPost(JakartaWebServlet.java:166)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:522)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 50 more
+2024-11-09 02:33:13.439038+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]ORDER"; expected "identifier"; SQL statement:
+SELECT * FROM ORDER [42001-224]
+2024-11-09 10:51:31.866647+02:00 database: wrong user or password; user: "SA"
+org.h2.message.DbException: Wrong user name or password [28000-224]
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.engine.Engine.openSession(Engine.java:154)
+	at org.h2.engine.Engine.openSession(Engine.java:222)
+	at org.h2.engine.Engine.createSession(Engine.java:201)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:343)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:125)
+	at org.h2.util.JdbcUtils.getConnection(JdbcUtils.java:288)
+	at org.h2.server.web.WebServer.getConnection(WebServer.java:811)
+	at org.h2.server.web.WebApp.login(WebApp.java:1039)
+	at org.h2.server.web.WebApp.process(WebApp.java:227)
+	at org.h2.server.web.WebApp.processRequest(WebApp.java:177)
+	at org.h2.server.web.JakartaWebServlet.doGet(JakartaWebServlet.java:129)
+	at org.h2.server.web.JakartaWebServlet.doPost(JakartaWebServlet.java:166)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:522)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 50 more
+2024-11-09 10:51:48.150639+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]ORDER"; expected "identifier"; SQL statement:
+SELECT * FROM ORDER [42001-224]
+2024-11-09 10:56:21.653835+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM CUSTOMER\000d\000a\000d\000a[*]SELECT * FROM ORDERS"; SQL statement:
+SELECT * FROM CUSTOMER
+
+SELECT * FROM ORDERS [42000-224]
+2024-11-09 10:57:24.103029+02:00 database: wrong user or password; user: "SA"
+org.h2.message.DbException: Wrong user name or password [28000-224]
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.engine.Engine.openSession(Engine.java:154)
+	at org.h2.engine.Engine.openSession(Engine.java:222)
+	at org.h2.engine.Engine.createSession(Engine.java:201)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:343)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:125)
+	at org.h2.util.JdbcUtils.getConnection(JdbcUtils.java:288)
+	at org.h2.server.web.WebServer.getConnection(WebServer.java:811)
+	at org.h2.server.web.WebApp.login(WebApp.java:1039)
+	at org.h2.server.web.WebApp.process(WebApp.java:227)
+	at org.h2.server.web.WebApp.processRequest(WebApp.java:177)
+	at org.h2.server.web.JakartaWebServlet.doGet(JakartaWebServlet.java:129)
+	at org.h2.server.web.JakartaWebServlet.doPost(JakartaWebServlet.java:166)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:522)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 50 more
+2024-11-09 10:57:41.039499+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM [*]ORDER"; expected "identifier"; SQL statement:
+SELECT * FROM ORDER [42001-224]
